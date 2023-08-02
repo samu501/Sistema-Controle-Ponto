@@ -2,4 +2,4 @@
 
 Status do projeto: Em andamento.
 
-Tecnologias usadas:
+Tecnologias usadas: Python
